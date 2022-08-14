@@ -1,0 +1,136 @@
+@media (max-width: 1440px) {
+    .container {
+        width: 90%;
+    }
+
+}
+@media (max-width: 1200px) {
+.hamburger-menu {
+    display: none;
+}
+}
+@media (max-width: 1024px) {
+    .hero {
+        justify-content: center;
+        flex-direction: column;
+    }
+    .hero div {
+        margin-bottom: 40px;
+    }
+    .abaut {
+        justify-content: center;
+        flex-direction: column;
+    }
+    .abaut-block {
+        padding-top: 40px;
+    }
+}
+@media (max-width: 992px) {
+    .navbar a {
+        display: none;
+    }
+    .navbar select {
+        display: none;
+    }
+    .product {
+        justify-content: center;
+        flex-direction: column;
+    }
+    .hamburger-menu {
+        display: none;
+    }
+    .hamburger-menu {
+        display: block;
+    }
+}
+@media (max-width: 768px) {
+    .product-title-block2 {
+        align-items: start;
+        flex-direction: column;
+        width: 90%;
+    }
+    .product-text {
+        padding-top: 25px;
+        padding-left: 0;
+}
+    .hero h1 {
+        font-size: 36px;
+    }
+    .hero p {
+        font-size: 15px;
+    }
+    .hero button {
+        padding: 8px 15px;
+        font-size: 15px;
+    }
+}
+@media (max-width: 576px) {
+    .footer h3 {
+        font-size: 15px;
+    }
+    .product-text p {
+        font-size: 15px;
+    }
+    .product-title-block2 p {
+        font-size: 15px;
+    }
+    .product-text h2 {
+        font-size: 21px;
+    }
+    .product-block h1 {
+        font-size: 25px;
+    }
+    .product-block p {
+        font-size: 15px;
+    }
+    .product-block button {
+        padding: 6px 17px;
+        font-size: 14px;
+    }
+    .product-title {
+        font-size: 27px;
+    }
+
+    .abaut-block h1 {
+        font-size: 28px;
+    }
+    .abaut-block p {
+        font-size: 15px;
+    }
+    .hero img {
+        width: 90%;
+    }
+    .abaut img {
+        width: 90%;
+    }
+    .product-block {
+        width: 90%;
+    }
+
+
+
+}
+@media (max-width: 450px) {
+    .footer h3 {
+        font-size: 12px;
+    }
+    .hero h1 {
+        font-size: 30px;
+    }
+}
+@media (max-width: 400px) {
+    .navbar {
+        padding: 0;
+    }
+}
+@media (max-width: 375px) {
+
+}
+@media (max-width: 350px) {
+    .product-title-block2 {
+        padding-left: 0;
+    }
+}
+@media (max-width: 320px) {
+
+}
